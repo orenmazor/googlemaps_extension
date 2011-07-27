@@ -1,0 +1,8 @@
+{
+  "name": "Google Maps Searching",
+  "version": "1.0",
+  "description": "Ever want to search google maps from the omnibox? now you can!",
+  "omnibox": { "keyword" : "maps.google.com" },
+  "background_page": "background.html",
+  "permissions": ["tabs"]
+}
